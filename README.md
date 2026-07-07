@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A6EA5,100:8FCB49&height=220&section=header&text=Hi%20there,%20I'm%20Joycraft&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Github%20xdxd&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&size=22&duration=3000&pause=1000&color=3A6EA5&center=true&vCenter=true&width=600&lines=Starting+Windows...;Bienvenido+a+mi+perfil;Explorando+mis+proyectos+%F0%9F%92%BE" alt="Typing SVG" />
+<img src="https://media.tenor.com/ggWF2p1Xu_IAAAAj/loading-windows.gif" width="40" valign="middle" alt="loading gif"/><img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&size=22&duration=3000&pause=1000&color=3A6EA5&center=false&vCenter=true&width=400&lines=Starting+Windows...;Bienvenido+a+mi+perfil;Explorando+mis+proyectos" alt="Typing SVG" valign="middle" />
 
 </div>
 
@@ -12,7 +12,7 @@
 <tr>
 <td style="background:#0A246A;">
 
-<img src="./my-computer.png" width="22" valign="middle"/> My Computer
+<img src="./my-computer.png" width="24" height="24" style="vertical-align:middle;"/> &nbsp;**My Computer**
 
 </td>
 </tr>
@@ -23,15 +23,9 @@ C:\Users\Joycraft> whoami
 ```
 
 - Soy Joy xdxdxd
-- 🥀 Sin la música no vivo
-- 🦊 Soy furrito :3
+- Sin la música no vivo
+- Soy furrito :3
 - Me gustan mucho las galletas Oreo uwu
-
-<div align="center">
-
-<img src="https://media.tenor.com/ggWF2p1Xu_IAAAAj/loading-windows.gif" width="300"/>
-
-</div>
 
 
 <br>
@@ -40,7 +34,7 @@ C:\Users\Joycraft> whoami
 <tr>
 <td style="background:#0A246A;">
 
-<img src="./control-panel.png" width="22" valign="middle"/> Tech Stack
+<img src="./control-panel.png" width="24" height="24" style="vertical-align:middle;"/> &nbsp;**Tech Stack**
 
 </td>
 </tr>
@@ -73,7 +67,7 @@ C:\Users\Joycraft> whoami
 <tr>
 <td style="background:#0A246A;">
 
-<img src="./system-properties.png" width="22" valign="middle"/> System Status
+<img src="./system-properties.png" width="24" height="24" style="vertical-align:middle;"/> &nbsp;**System Status**
 
 </td>
 </tr>
@@ -81,8 +75,8 @@ C:\Users\Joycraft> whoami
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joycraftowo&show_icons=true&theme=default&hide_border=true&title_color=3A6EA5&icon_color=3A6EA5&text_color=333333&bg_color=ffffff" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=joycraftowo&theme=default&hide_border=true&background=ffffff&ring=3A6EA5&fire=8FCB49&currStreakLabel=3A6EA5" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=joycraftowo&show_icons=true&theme=transparent&hide_border=true&title_color=3A6EA5&icon_color=8FCB49&text_color=c9d1d9" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=joycraftowo&hide_border=true&background=00000000&ring=3A6EA5&fire=8FCB49&currStreakLabel=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="48%" />
 
 </div>
 
@@ -92,7 +86,7 @@ C:\Users\Joycraft> whoami
 <tr>
 <td style="background:#0A246A;">
 
-<img src="./network.png" width="22" valign="middle"/> Contribution Snake
+<img src="./network.png" width="24" height="24" style="vertical-align:middle;"/> &nbsp;**Contribution Snake**
 
 </td>
 </tr>
@@ -114,7 +108,7 @@ C:\Users\Joycraft> whoami
 <tr>
 <td style="background:#0A246A;">
 
-<img src="./adress-book.png" width="22" valign="middle"/> Contact
+<img src="./adress-book.png" width="24" height="24" style="vertical-align:middle;"/> &nbsp;**Contact**
 
 </td>
 </tr>
