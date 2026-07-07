@@ -23,7 +23,7 @@ C:\Users\Joycraft> whoami
 ```
 
 - Soy Joy xdxdxd
-- sin la musica no vivo 🥀
+- sin la musica no vivo :wilted_rose:
 - soy furrito :3
 - me gusta mucho las galletas oreo uwu
 
@@ -33,7 +33,7 @@ C:\Users\Joycraft> whoami
 <tr>
 <td style="background:#0A246A;">
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 </td>
 </tr>
@@ -41,12 +41,22 @@ C:\Users\Joycraft> whoami
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-3A6EA5?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-3A6EA5?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-3A6EA5?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3A6EA5?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-3A6EA5?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-3A6EA5?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,tailwind,mongodb,mysql,git,github,figma,vscode,docker&theme=light" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-3A6EA5?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3A6EA5?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3A6EA5?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3A6EA5?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-3A6EA5?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-3A6EA5?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-3A6EA5?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3A6EA5?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -56,7 +66,7 @@ C:\Users\Joycraft> whoami
 <tr>
 <td style="background:#0A246A;">
 
-### System Status
+### 📊 System Status
 
 </td>
 </tr>
@@ -75,7 +85,7 @@ C:\Users\Joycraft> whoami
 <tr>
 <td style="background:#0A246A;">
 
-### Contribution
+### 🐍 Contribution Snake
 
 </td>
 </tr>
@@ -97,7 +107,7 @@ C:\Users\Joycraft> whoami
 <tr>
 <td style="background:#0A246A;">
 
-### Contact
+### 📬 Contact
 
 </td>
 </tr>
@@ -105,8 +115,18 @@ C:\Users\Joycraft> whoami
 
 <div align="center">
 
-![Discord](https://img.shields.io/badge/Discord-3A6EA5?style=for-the-badge&logo=discord&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-3A6EA5?style=for-the-badge&logo=x&logoColor=white)
+<a href="https://x.com/Joycraftzzz" target="_blank">
+  <img src="https://img.shields.io/badge/@Joycraftzzz-3A6EA5?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/joycrafts___-3A6EA5?style=for-the-badge&logo=discord&logoColor=white" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=joycraftowo.joycraftowo&left_color=0A246A&right_color=3A6EA5" />
 
 </div>
 
