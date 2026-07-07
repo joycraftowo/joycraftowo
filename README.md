@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A6EA5,100:8FCB49&height=220&section=header&text=Hi%20there,%20I'm%20Joycraft%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20-%20Windows%20XP%20Edition&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A6EA5,100:8FCB49&height=220&section=header&text=Hi%20there,%20I'm%20Joycraft&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Github%20xdxd&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&size=22&duration=3000&pause=1000&color=3A6EA5&center=true&vCenter=true&width=600&lines=Starting+Windows...;Bienvenido+a+mi+perfil;Explorando+mis+proyectos+%F0%9F%92%BE;Recuerdas+este+estilo%3F+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&size=22&duration=3000&pause=1000&color=3A6EA5&center=true&vCenter=true&width=600&lines=Starting+Windows...;Bienvenido+a+mi+perfil;Explorando+mis+proyectos+%F0%9F%92%BE" alt="Typing SVG" />
 
 </div>
 
@@ -12,7 +12,7 @@
 <tr>
 <td style="background:#0A246A;">
 
-### 🖥️ My Computer
+<img src="./assets/my-computer.png" width="22" valign="middle"/> My Computer
 
 </td>
 </tr>
@@ -23,17 +23,16 @@ C:\Users\Joycraft> whoami
 ```
 
 - Soy Joy xdxdxd
-- sin la musica no vivo :wilted_rose:
+- sin la musica no vivo 🥀
 - soy furrito :3
 - me gusta mucho las galletas oreo uwu
-
 <br>
 
 <table width="100%">
 <tr>
 <td style="background:#0A246A;">
 
-### 🛠️ Tech Stack
+<img src="./assets/control-panel.png" width="22" valign="middle"/> Tech Stack
 
 </td>
 </tr>
@@ -66,7 +65,7 @@ C:\Users\Joycraft> whoami
 <tr>
 <td style="background:#0A246A;">
 
-### 📊 System Status
+<img src="./assets/system-properties.png" width="22" valign="middle"/> System Status
 
 </td>
 </tr>
@@ -74,8 +73,8 @@ C:\Users\Joycraft> whoami
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joycraftowo&show_icons=true&theme=transparent&hide_border=true&title_color=3A6EA5&icon_color=8FCB49&text_color=333333&bg_color=00000000" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joycraftowo&theme=default&hide_border=true&background=00000000&ring=3A6EA5&fire=8FCB49&currStreakLabel=3A6EA5" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=joycraftowo&show_icons=true&theme=default&hide_border=true&title_color=3A6EA5&icon_color=3A6EA5&text_color=333333&bg_color=ffffff" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=joycraftowo&theme=default&hide_border=true&background=ffffff&ring=3A6EA5&fire=8FCB49&currStreakLabel=3A6EA5" width="48%" />
 
 </div>
 
@@ -85,7 +84,7 @@ C:\Users\Joycraft> whoami
 <tr>
 <td style="background:#0A246A;">
 
-### 🐍 Contribution Snake
+<img src="./assets/network.png" width="22" valign="middle"/> Contribution Snake
 
 </td>
 </tr>
@@ -107,7 +106,7 @@ C:\Users\Joycraft> whoami
 <tr>
 <td style="background:#0A246A;">
 
-### 📬 Contact
+<img src="./assets/address-book.png" width="22" valign="middle"/> Contact
 
 </td>
 </tr>
