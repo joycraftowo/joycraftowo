@@ -22,11 +22,10 @@
 C:\Users\Joycraft> whoami
 ```
 
-- 🎮 Me gusta jugar y crear cosas raras
-- 🎧 Casi siempre tengo música de fondo
-- 📖 Fan de Shounen y manga
-- 🌱 Aprendiendo cosas nuevas todo el tiempo
-- ⚡ Este perfil corre en modo nostalgia (Windows XP, 2001)
+- Soy Joy xdxdxd
+- sin la musica no vivo 🥀
+- soy furrito :3
+- me gusta mucho las galletas oreo uwu
 
 <br>
 
@@ -34,7 +33,7 @@ C:\Users\Joycraft> whoami
 <tr>
 <td style="background:#0A246A;">
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 </td>
 </tr>
@@ -57,7 +56,7 @@ C:\Users\Joycraft> whoami
 <tr>
 <td style="background:#0A246A;">
 
-### 📊 System Status
+### System Status
 
 </td>
 </tr>
@@ -76,7 +75,7 @@ C:\Users\Joycraft> whoami
 <tr>
 <td style="background:#0A246A;">
 
-### 🐍 Contribution Snake
+### Contribution
 
 </td>
 </tr>
@@ -98,7 +97,7 @@ C:\Users\Joycraft> whoami
 <tr>
 <td style="background:#0A246A;">
 
-### 📬 Contact
+### Contact
 
 </td>
 </tr>
