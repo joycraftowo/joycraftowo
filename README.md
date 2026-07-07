@@ -12,7 +12,7 @@
 <tr>
 <td style="background:#0A246A;">
 
-<img src="./assets/my-computer.png" width="22" valign="middle"/> My Computer
+<img src="./my-computer.png" width="22" valign="middle"/> My Computer
 
 </td>
 </tr>
@@ -23,16 +23,24 @@ C:\Users\Joycraft> whoami
 ```
 
 - Soy Joy xdxdxd
-- sin la musica no vivo 🥀
-- soy furrito :3
-- me gusta mucho las galletas oreo uwu
+- 🥀 Sin la música no vivo
+- 🦊 Soy furrito :3
+- Me gustan mucho las galletas Oreo uwu
+
+<div align="center">
+
+<img src="https://media.tenor.com/ggWF2p1Xu_IAAAAj/loading-windows.gif" width="300"/>
+
+</div>
+
+
 <br>
 
 <table width="100%">
 <tr>
 <td style="background:#0A246A;">
 
-<img src="./assets/control-panel.png" width="22" valign="middle"/> Tech Stack
+<img src="./control-panel.png" width="22" valign="middle"/> Tech Stack
 
 </td>
 </tr>
@@ -65,7 +73,7 @@ C:\Users\Joycraft> whoami
 <tr>
 <td style="background:#0A246A;">
 
-<img src="./assets/system-properties.png" width="22" valign="middle"/> System Status
+<img src="./system-properties.png" width="22" valign="middle"/> System Status
 
 </td>
 </tr>
@@ -84,7 +92,7 @@ C:\Users\Joycraft> whoami
 <tr>
 <td style="background:#0A246A;">
 
-<img src="./assets/network.png" width="22" valign="middle"/> Contribution Snake
+<img src="./network.png" width="22" valign="middle"/> Contribution Snake
 
 </td>
 </tr>
@@ -106,7 +114,7 @@ C:\Users\Joycraft> whoami
 <tr>
 <td style="background:#0A246A;">
 
-<img src="./assets/address-book.png" width="22" valign="middle"/> Contact
+<img src="./adress-book.png" width="22" valign="middle"/> Contact
 
 </td>
 </tr>
